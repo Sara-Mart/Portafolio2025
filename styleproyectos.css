@@ -143,7 +143,7 @@ nav ul li a:hover{
 }
 
 .proyecto{
-    background-color:#FB9590;
+    background-color:#ffffff4b;
     text-align: left;
     border-radius: 1vw;
     padding: 20px;
@@ -170,12 +170,28 @@ nav ul li a:hover{
     text-transform: uppercase;
 }
 
+.proyecto p{
+    margin-bottom: 2rem;
+}
+
 .proyecto a{
     
-    color: #ffffff;
+    width: 100%;
+
+    padding: 1rem;
+
+    background-color: #4C1D3D;
+    color: #FB9590;
+
+    text-align: center;
+    text-decoration: none;
+
+    border-radius: 1rem;
+   
 }
 
 .proyecto a:hover{
+    background-color: #ffffff8e;
     color: #4C1D3D;
-    font-weight: 800;
+    font-weight: 900;
 }
